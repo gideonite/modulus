@@ -4,4 +4,5 @@ channels:
 dependencies:
   - opencv>=4.6.0
   - pip
+  - hydra-core>=1.2.0
 prefix: /home/gideon/anaconda3/envs/modulus
