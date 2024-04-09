@@ -1,0 +1,7 @@
+name: modulus
+channels:
+  - defaults
+dependencies:
+  - opencv>=4.6.0
+  - pip
+prefix: /home/gideon/anaconda3/envs/modulus
